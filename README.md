@@ -2,6 +2,8 @@
 
 A fast, searchable index of the **1,449 public articles** in the [Encompass Technologies help center](https://help.encompasstech.com/en-us/), built as a quick-reference tool for IT support at a beverage distributor.
 
+**Live site: [nick080989.github.io/encompass-help-finder](https://nick080989.github.io/encompass-help-finder/)**
+
 > Unofficial. Not affiliated with or endorsed by Encompass Technologies. All article content belongs to Encompass Technologies; every article links back to its original page.
 
 ## Features
